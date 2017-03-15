@@ -1,6 +1,7 @@
 # `<things-libraries>`
 ## 1. 개요
-#### Vulcanize시에 정확하게 중복된 Lib를 수집해 넣지 않기 위하여 모든 Things Elements용 자바스크립트를 해당 컴포넌트에 포함한다.
+#### Vulcanize시에 정확하게 중복된 Lib를 수집해 넣지 않기 위하여 모든 Things Elements용 Third party libraries나 공통 자바스크립트들을 해당 컴포넌트의 리스트에 포함한다.
+
 ## 1.1 예시
 things-jquery-lib.html파일에는 아래와 같이 코드가 포함하여 사용
 
