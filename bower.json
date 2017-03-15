@@ -1,7 +1,22 @@
 {
   "name": "things-libraries",
+  "version": "0.1.28",
+  "authors": [
+    "Hatio Lab. <heartyoh@hatiolab.com>"
+  ],
   "description": "모든 Things Elements용 자바스크립트",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
   "main": "things-libraries.html",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/",
+    "index.html"
+  ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "c3": "^0.4.11",
