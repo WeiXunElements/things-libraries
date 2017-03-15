@@ -25,7 +25,9 @@ s
 |js-xlsx        |`<link rel="import" href="../things-libraries/things-jsxlsx-lib.html">`    |^0.8.0    |
 |numeral        |`<link rel="import" href="../things-libraries/things-numeraljs-lib.html">` |^2.0.4    |
 |sockjs         |`<link rel="import" href="../things-libraries/things-sockjs-lib.html">`    |^0.3.4    |
-|sweetalert     |`<link rel="import" href="../things-libraries/things-sweetalert-lib.html">`    |^1.1.3    |
+|sweetalert     |`<link rel="import" href="../things-libraries/things-sweetalert-lib.html">`|^1.1.3    |
+|fullcalendar   |`<link rel="import" href="../things-libraries/things-fullcalendar-lib.html">`|^3.0.1  |
+|stomp-websocket|`<link rel="import" href="../things-libraries/things-stomp-lib.html">`     |^2.3.4    |
 |xxx            |`                                                                     `    |^         ||
 
 

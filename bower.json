@@ -27,7 +27,9 @@
     "js-xlsx": "^0.8.0",
     "numeral": "^2.0.4",
     "sockjs": "^0.3.4",
-    "sweetalert": "^1.1.3"
+    "sweetalert": "^1.1.3",
+    "stomp-websocket": "^2.3.4",
+    "fullcalendar": "^3.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
