@@ -15,7 +15,7 @@ things-jquery-lib.html파일에는 아래와 같이 코드가 포함하여 사�
 ## 1.2 List
 |Lib Name|Lib HTML|
 |--------|-----------------------------------------|
-|Jquery  |`things-jquery-lib.html`|
+|Jquery  |`../things-libraries/things-jquery-lib.html`|
 |XXX|             ||
 
 
