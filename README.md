@@ -13,11 +13,20 @@ things-jquery-lib.html파일에는 아래와 같이 코드가 포함하여 사�
 ```
   <things-jquery-lib></things-jquery-lib>
 ```
+s
 ## 1.2 List
-|Lib Name|Lib HTML|
-|--------|-----------------------------------------|
-|Jquery  |`<link rel="import" href="../things-libraries/things-jquery-lib.html">`|
-|XXX|             ||
+|Lib Name       |Lib HTML                                                                   |version   |
+|---------------|---------------------------------------------------------------------------|----------|
+|c3             |`<link rel="import" href="../things-libraries/things-c3-lib.html">`        |^0.4.11   |
+|d3             |`<link rel="import" href="../things-libraries/things-d3-lib.html">`        |^3.5.17   |
+|Jquery         |`<link rel="import" href="../things-libraries/things-jquery-lib.html">`    |2 - 3     |
+|moment         |`<link rel="import" href="../things-libraries/things-momentjs-lib.html">`  |^2.9.0    |
+|jszip          |`<link rel="import" href="../things-libraries/things-jszip-lib.html">`     |^2.2.0    |
+|js-xlsx        |`<link rel="import" href="../things-libraries/things-jsxlsx-lib.html">`    |^0.8.0    |
+|numeral        |`<link rel="import" href="../things-libraries/things-numeraljs-lib.html">` |^2.0.4    |
+|sockjs         |`<link rel="import" href="../things-libraries/things-sockjs-lib.html">`    |^0.3.4    |
+|sweetalert     |`<link rel="import" href="../things-libraries/things-sockjs-lib.html">`    |^1.1.3    |
+|xxx            |`                                                                     `    |^         ||
 
 
 
