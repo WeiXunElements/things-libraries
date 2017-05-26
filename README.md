@@ -28,6 +28,7 @@ s
 |sweetalert     |`<link rel="import" href="../things-libraries/things-sweetalert-lib.html">`|^1.1.3    |
 |fullcalendar   |`<link rel="import" href="../things-libraries/things-fullcalendar-lib.html">`|^3.0.1  |
 |stomp-websocket|`<link rel="import" href="../things-libraries/things-stomp-lib.html">`     |^2.3.4    |
+|ace-builds   |`<link rel="import" href="../things-libraries/things-ace-lib.html">`|^1.2.0  ||
 |xxx            |`                                                                     `    |^         ||
 
 
