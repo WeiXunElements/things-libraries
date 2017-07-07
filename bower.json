@@ -1,6 +1,6 @@
 {
   "name": "things-libraries",
-  "version": "2.0.1",
+  "version": "2.2.0",
   "authors": [
     "Hatio Lab. <heartyoh@hatiolab.com>"
   ],
@@ -37,5 +37,7 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
-  }
+  },
+  "license": "http://license.hatiolab.com/EULA",
+  "homepage": "http://elements.hatiolab.com/"
 }
